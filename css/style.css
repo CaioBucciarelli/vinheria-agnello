@@ -114,11 +114,6 @@ ul, ol {
   justify-content: center;
 }
 
-.wines-list {
-  width: 100%;
-  display: flex;
-}
-
 .wines-item {
   width: 30%;
   display: flex;
